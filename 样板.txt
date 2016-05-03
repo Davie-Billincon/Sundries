@@ -5,3 +5,5 @@
 我又修改了，但我不add该文件，之前已经add跟踪该文件了，看看commit能不能提交
 
 在add后又修改了，这次又不add查看一下status
+
+commit后却没有push，然后在修改，add，commit试试
