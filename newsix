@@ -1,3 +1,6 @@
+
 master：作为一个新文件，应该干干净净的啊（branchFour修改完new five后，回master修改newsix）
 
 master：解决冲突的实验，来自master的修改
+branchFour：解决冲突的实验，来自branchFour的修改
+
