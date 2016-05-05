@@ -9,3 +9,5 @@
 新建branchTwo后的修改，从branchTwo共同祖先推进一步
 
 我在master进行修改，add到暂存区，但是并不commit
+
+进入branchThr，我在这次修改branchThr并提交，然后merge前，master都不会有自己的提交或者其他分支的merge
