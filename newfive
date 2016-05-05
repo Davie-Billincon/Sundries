@@ -5,3 +5,5 @@
 外部更改然后移入
 
 这是一次新建branchOne，切回master后的修改与提交，该提交使得master从共同祖先向前走了一步
+
+共同祖先是上一句所陈述的commit，我现在在branchTwo中修改，使得branchTwo推进一步
