@@ -17,3 +17,5 @@
 这是第二次修改
 
 branchFour的修改，为了阻碍branchThr的merge，此时branchThr的merge距离其上一次merge中间隔了一个其他分支的merge
+
+branchFour的修改，这次在该分支中修改new five，一会切到master修改newsix
