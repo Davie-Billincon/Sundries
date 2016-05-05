@@ -7,3 +7,5 @@
 这是一次新建branchOne，切回master后的修改与提交，该提交使得master从共同祖先向前走了一步
 
 新建branchTwo后的修改，从branchTwo共同祖先推进一步
+
+我在master进行修改，add到暂存区，但是并不commit
