@@ -8,4 +8,6 @@ branchFour：解决冲突的实验，来自branchFour的修改
 
 master：想试验stash，在修改文本后，不add直接切换到其他分支会怎么样？
 
+
+//branchFiv：假设这是一段注释，我在子分支添加上的
 master：测试reset的修改和提交，到时候会reset到倒数第3个commit
