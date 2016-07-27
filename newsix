@@ -4,3 +4,8 @@ master：作为一个新文件，应该干干净净的啊（branchFour修改完n
 master：解决冲突的实验，来自master的修改
 branchFour：解决冲突的实验，来自branchFour的修改
 
+
+
+master：想试验stash，在修改文本后，不add直接切换到其他分支会怎么样？
+
+master：测试reset的修改和提交，到时候会reset到倒数第3个commit
