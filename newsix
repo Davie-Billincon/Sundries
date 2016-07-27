@@ -11,3 +11,5 @@ master：想试验stash，在修改文本后，不add直接切换到其他分支
 
 //branchFiv：假设这是一段注释，我在子分支添加上的
 branchFiv:我在分支里修改master中的内容，能够merge成功吗？
+
+master:我再加一行新代码，等待分支去注释
