@@ -10,4 +10,4 @@ master：想试验stash，在修改文本后，不add直接切换到其他分支
 
 
 //branchFiv：假设这是一段注释，我在子分支添加上的
-master：测试reset的修改和提交，到（这里也修改了呢？）时候会reset到倒数第3个commit（master：我删了一些东西，最为删除类型的修改）
+branchFiv:我在分支里修改master中的内容，能够merge成功吗？
