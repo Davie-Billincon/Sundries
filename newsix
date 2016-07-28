@@ -9,3 +9,5 @@ branchFour：解决冲突的实验，来自branchFour的修改
 master：想试验stash，在修改文本后，不add直接切换到其他分支会怎么样？
 
 master：测试reset的修改和提交，到时候会reset到倒数第3个commit
+
+master:在编辑该文档时，另一个GitDemo要领先于这个版本，现在进行修改，然后等getDemo提交后再提交这个看看会不会失败
