@@ -26,3 +26,5 @@ branchFour的修改，这次在该分支中修改new five，一会切到master�
 
 
 git reset -q 实验 1
+
+git reset -q 实验 2
