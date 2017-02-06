@@ -24,4 +24,5 @@ branchFour的修改，这次在该分支中修改new five，一会切到master�
 (master:批量注释后的批量修改 - 这行是莫名其妙的添加)
 (master:批量注释后的批量修改 - 这行是莫名其妙的添加)
 
-git reset -q 实验
+
+git reset -q 实验 1

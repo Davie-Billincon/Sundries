@@ -21,4 +21,4 @@ master:我再加一行新代码，等待分支去注释
 >>>>>>> origin/master
 
 
-git reset -q 实验
+git reset -q 实验 1
