@@ -19,3 +19,6 @@ branchFiv:我在分支里修改master中的内容，能够merge成功吗？
 
 master:我再加一行新代码，等待分支去注释
 >>>>>>> origin/master
+
+
+git reset -q 实验
