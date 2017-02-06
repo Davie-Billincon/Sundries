@@ -24,3 +24,5 @@ master:我再加一行新代码，等待分支去注释
 git reset -q 实验 1
 
 git reset -q 实验 2
+
+git reset -q 实验 3
