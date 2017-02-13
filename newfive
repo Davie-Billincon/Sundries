@@ -32,3 +32,5 @@ git reset -q 实验 2
 git reset -q 实验 3
 
 git reset -q 实验 4
+
+git rebase 合并不连接日志 1
