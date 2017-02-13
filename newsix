@@ -28,3 +28,5 @@ rebase 提交1
 rebase 提交2
 
 rebase 提交3
+
+git rebase 合并不连接日志二次实验 1
